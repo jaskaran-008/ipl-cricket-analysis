@@ -93,7 +93,6 @@ Measured the rate at which teams win the toss, choose to bat, AND win the match.
 ```
 Python 3.x
 ├── pandas       — data loading, filtering, groupby, aggregation
-├── numpy        — vectorized operations
 └── matplotlib   — bar chart visualizations (5 charts)
 ```
 
@@ -121,7 +120,7 @@ jupyter notebook ipl_analysis.ipynb
 ## 🧠 What This Demonstrates
 
 - Loading and exploring large datasets (179K+ rows) with Pandas
-- `groupby()` with named aggregations (`agg()`) for multi-metric analysis
+- `groupby()` for multi-metric analysis
 - Boolean masking with multiple conditions for precise filtering
 - Computing derived metrics (strike rate, economy rate, win %)
 - `pd.concat()` for combining multiple Series into analysis DataFrames
@@ -146,7 +145,6 @@ ipl-cricket-analysis/
 
 **Jaskaran Singh** — Aspiring Data Analyst | Python · SQL · Pandas · Power BI  
 📍 Chandigarh/Mohali Region  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/jaskaran-008)
 
 ---
 
